@@ -1,0 +1,10 @@
+F:\Root\volume-workbench\git-hub-sync\AngryBill\BillShell\obj\Debug\BillShell.csprojAssemblyReference.cache
+F:\Root\volume-workbench\git-hub-sync\AngryBill\BillShell\obj\Debug\BillShell.csproj.CoreCompileInputs.cache
+F:\Root\volume-workbench\git-hub-sync\AngryBill\BillShell\bin\Debug\BillShell.exe.config
+F:\Root\volume-workbench\git-hub-sync\AngryBill\BillShell\bin\Debug\BillShell.exe
+F:\Root\volume-workbench\git-hub-sync\AngryBill\BillShell\bin\Debug\BillShell.pdb
+F:\Root\volume-workbench\git-hub-sync\AngryBill\BillShell\bin\Debug\BillDataStruct.dll
+F:\Root\volume-workbench\git-hub-sync\AngryBill\BillShell\bin\Debug\BillDataStruct.pdb
+F:\Root\volume-workbench\git-hub-sync\AngryBill\BillShell\obj\Debug\BillShell.csproj.CopyComplete
+F:\Root\volume-workbench\git-hub-sync\AngryBill\BillShell\obj\Debug\BillShell.exe
+F:\Root\volume-workbench\git-hub-sync\AngryBill\BillShell\obj\Debug\BillShell.pdb
