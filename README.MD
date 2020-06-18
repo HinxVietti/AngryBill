@@ -1,5 +1,6 @@
 # AngryBill
-###[EN Version](README-CN.md)
+### [EN Version](README-CN.md)
+
 There is a loat bill tools on net work. But care of personal data security. We shold record this data ourself.
 To aviod data leap.
 
