@@ -1,4 +1,4 @@
-# AngryBill
+# AngryBill     [EN Version](README-CN.md)
 网上有很多记账工具，但是我觉得这种私人数据还是自己记录比较好；（避免各种隐私泄露）
 
 ## 打算开发以下功能；
