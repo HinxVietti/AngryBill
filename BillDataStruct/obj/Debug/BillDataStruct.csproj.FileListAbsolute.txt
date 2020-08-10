@@ -1,6 +1,5 @@
-F:\Root\volume-workbench\git-hub-sync\AngryBill\BillDataStruct\obj\Debug\BillDataStruct.csprojAssemblyReference.cache
-F:\Root\volume-workbench\git-hub-sync\AngryBill\BillDataStruct\obj\Debug\BillDataStruct.csproj.CoreCompileInputs.cache
-F:\Root\volume-workbench\git-hub-sync\AngryBill\BillDataStruct\bin\Debug\BillDataStruct.dll
-F:\Root\volume-workbench\git-hub-sync\AngryBill\BillDataStruct\bin\Debug\BillDataStruct.pdb
-F:\Root\volume-workbench\git-hub-sync\AngryBill\BillDataStruct\obj\Debug\BillDataStruct.dll
-F:\Root\volume-workbench\git-hub-sync\AngryBill\BillDataStruct\obj\Debug\BillDataStruct.pdb
+D:\WorkTemp\GitHub\AngryBill\BillDataStruct\obj\Debug\BillDataStruct.csproj.CoreCompileInputs.cache
+D:\WorkTemp\GitHub\AngryBill\BillDataStruct\bin\Debug\BillDataStruct.dll
+D:\WorkTemp\GitHub\AngryBill\BillDataStruct\bin\Debug\BillDataStruct.pdb
+D:\WorkTemp\GitHub\AngryBill\BillDataStruct\obj\Debug\BillDataStruct.dll
+D:\WorkTemp\GitHub\AngryBill\BillDataStruct\obj\Debug\BillDataStruct.pdb
